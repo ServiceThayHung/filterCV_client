@@ -36,3 +36,18 @@
 {
     padding: 10px;
 }
+
+.data-show
+{
+    width: 100%;
+    height: 100%;
+}
+
+table{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+table td,th{
+    border: 1px solid black;
+}
